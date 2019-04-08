@@ -1,0 +1,16 @@
+.container{
+  margin-top:30px;
+  width: 60%;
+  font-size: 20px;
+  text-align: center
+}
+.btn{
+ margin-left: 10px;
+ font-weight: bold
+}
+#serial-number{
+  display: none;
+}
+.bgg{
+  background: #99FF99;
+}
